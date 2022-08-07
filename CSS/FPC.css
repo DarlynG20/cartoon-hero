@@ -29,3 +29,7 @@ main{
 main img{
     max-width: 100%;
 }
+ol{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
