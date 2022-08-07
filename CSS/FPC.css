@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+    font-family: Helvetica, sans-serif, Arial;
+}
+header{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+header h1{
+    font-size: 50px;
+    color: #fff;
+}
+h2{
+    font-size: 45px;
+}
+p{
+    font-size: 35px;
+}
+
+header img{
+    border-radius: 300px;
+    border: 10px solid #fff;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+main img{
+    max-width: 100%;
+}
